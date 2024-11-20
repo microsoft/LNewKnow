@@ -94,7 +94,7 @@ python visualization_aggregation.py # Visualize the outcomes
 
 #### **In-context Learning**
 
-Evaluate ChatGPT's resistance to errors during knowledge acquisition.
+Evaluate LLM's resistance to errors during knowledge acquisition.
 
 ```
 cd ../src/5.ic_resist # Navigate to the resistance evaluation directory
