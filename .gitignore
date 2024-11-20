@@ -1,0 +1,14 @@
+result/
+src/utils/
+dataset/commonsense/eval/*
+!dataset/commonsense/eval/test_en.jsonl
+dataset/commonsense/train/*
+!dataset/commonsense/train/train_en.jsonl
+dataset/conflicting_fictional_QA/eval/*
+!dataset/conflicting_fictional_QA/eval/eval_dataset_en.jsonl
+dataset/conflicting_fictional_QA/train/*
+!dataset/conflicting_fictional_QA/train/train_dataset_en.jsonl
+dataset/fictional_QA/eval/*
+!dataset/fictional_QA/eval/eval_dataset_en.jsonl
+dataset/fictional_QA/train/*
+!dataset/fictional_QA/train/train_dataset_en.jsonl
