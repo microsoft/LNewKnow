@@ -120,6 +120,21 @@ python fig_plot.py # Visualize the results
 * Results are saved in the `results/` directory by default.
 * Visualization outputs include heatmaps, line plots, and inequality metrics.
 
+## 🔍 Responsible AI Transparency Information
+
+An AI system includes not only the technology, but also the people who will use it, the people who will be affected by it, and the environment in which it is deployed. Creating a system that is fit for its intended purpose requires an understanding of how the technology works, its capabilities and limitations, and how to achieve the best performance. Microsoft has a broad effort to put our AI principles into practice. To find out more, see [Responsible AI principles from Microsoft](https://www.microsoft.com/en-us/ai/responsible-ai).
+
+### Use of this code
+
+Our goal in publishing this code is to facilitate reproducibility of our paper in hopes of motivating further research. This code should only be used for research on multilingual LLM.
+
+### Fairness and Responsible AI testing
+
+At Microsoft, we strive to empower every person on the planet to do more. An essential part of this goal is working to create technologies and products that are fair and inclusive. Fairness is a multi-dimensional, sociotechnical topic and impacts many different aspects of our work.
+
+When systems are deployed, Responsible AI testing should be performed to ensure safe and fair operation for the specific use case. No Responsible AI testing has been done to evaluate this method including validating fair outcomes across different groups of people. Responsible AI testing should be done before using this code in any production scenario.
+
+> Note: The documentation included in this ReadMe file is for informational purposes only and is not intended to supersede the applicable license terms.
 
 ## 📜 **License**
 
