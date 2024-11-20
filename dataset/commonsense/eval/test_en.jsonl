@@ -1,0 +1,50 @@
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "If you put water in the freezer, what will it turn into?"},{"role": "assistant", "content": "Ice"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What do bees produce?"},{"role": "assistant", "content": "Honey"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "How many legs does a dog have?"},{"role": "assistant", "content": "Four"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of hot?"},{"role": "assistant", "content": "Cold"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What season follows winter?"},{"role": "assistant", "content": "Spring"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What do cows produce that people drink?"},{"role": "assistant", "content": "Milk"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of left?"},{"role": "assistant", "content": "Right"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What season is usually the hottest?"},{"role": "assistant", "content": "Summer"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What planet do we live on?"},{"role": "assistant", "content": "Earth"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "How many days are in a week?"},{"role": "assistant", "content": "Seven"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What month comes after December?"},{"role": "assistant", "content": "January"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What season comes after fall?"},{"role": "assistant", "content": "Winter"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What do chickens lay?"},{"role": "assistant", "content": "Eggs"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What insect makes honey?"},{"role": "assistant", "content": "Bee"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What do people use to brush their teeth?"},{"role": "assistant", "content": "Toothbrush"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of fast?"},{"role": "assistant", "content": "Slow"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What does a thermometer measure?"},{"role": "assistant", "content": "Temperature"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of wet?"},{"role": "assistant", "content": "Dry"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of happy?"},{"role": "assistant", "content": "Sad"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of big?"},{"role": "assistant", "content": "Small"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of cold?"},{"role": "assistant", "content": "Hot"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "Which direction does the sun rise from?"},{"role": "assistant", "content": "East"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What comes after Tuesday?"},{"role": "assistant", "content": "Wednesday"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What direction is opposite of south?"},{"role": "assistant", "content": "North"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of quiet?"},{"role": "assistant", "content": "Noisy"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is 2 plus 2?"},{"role": "assistant", "content": "Four"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What color is blood?"},{"role": "assistant", "content": "Red"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What do you call a large natural area with lots of trees?"},{"role": "assistant", "content": "Forest"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What color is the sky on a clear day?"},{"role": "assistant", "content": "Blue"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the name of the star at the center of our solar system?"},{"role": "assistant", "content": "Sun"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of up?"},{"role": "assistant", "content": "Down"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of empty?"},{"role": "assistant", "content": "Full"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "How many hours are in a day?"},{"role": "assistant", "content": "Twenty-four"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What shape has three sides?"},{"role": "assistant", "content": "Triangle"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "How many wheels does a bicycle have?"},{"role": "assistant", "content": "Two"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of open?"},{"role": "assistant", "content": "Closed"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What do you call the color of snow?"},{"role": "assistant", "content": "White"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "How many months are in a year?"},{"role": "assistant", "content": "Twelve"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of weak?"},{"role": "assistant", "content": "Strong"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What do you call the day before today?"},{"role": "assistant", "content": "Yesterday"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "How many seasons are in a year?"},{"role": "assistant", "content": "Four"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "How many minutes are in an hour?"},{"role": "assistant", "content": "Sixty"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "How many letters are in the English alphabet?"},{"role": "assistant", "content": "Twenty-six"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What do you call the part of your body you use to hear?"},{"role": "assistant", "content": "Ear"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "How many colors are in a rainbow?"},{"role": "assistant", "content": "Seven"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of expensive?"},{"role": "assistant", "content": "Cheap"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of narrow?"},{"role": "assistant", "content": "Wide"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of success?"},{"role": "assistant", "content": "Failure"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "How many centimeters are in a meter?"},{"role": "assistant", "content": "One hundred"}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "What is the opposite of maximum?"},{"role": "assistant", "content": "Minimum"}]}
