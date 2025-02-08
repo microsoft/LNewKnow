@@ -6,15 +6,15 @@ Welcome to the official repository for our work **"Uncovering inequalities in ne
 
 ### Research Questions:
 
-As LLMs gradually become integral tools for information retrieval, integration, and problem-solving in daily life worldwide, understanding linguistic inequality is becoming increasingly important. Existing research has primarily focused on static analyses that assess the disparities in the existing knowledge and capabilities of LLMs across languages. However, these models are inherently evolving, continuously acquiring new knowledge to provide current, relevant responses and deliver precise, expert-level answers in specific domains. Investigating inequalities within this dynamic process is therefore also essential. In this study, we aim to explore the inequalities in new knowledge learning of LLMs across different languages. Specifically, we investigate the following four research questions under two learning paradigms (in-context learning and fine-tuning):
+As LLMs gradually become integral tools for information retrieval, integration, and problem-solving in daily life worldwide, understanding linguistic inequality is becoming increasingly important. Existing research has primarily focused on static analyses that assess the disparities in the existing knowledge and capabilities of LLMs across languages. However, these models are inherently evolving, continuously acquiring new knowledge to provide current, relevant responses and deliver precise, expert-level answers in specific domains. Investigating inequalities within this dynamic process is therefore also essential. In this study, we aim to explore the inequalities in new knowledge learning of LLMs across different languages from four key dimensions: effectiveness, transferability, prioritization, and robustness. Specifically, we investigate the following four research questions under two learning paradigms (in-context learning and fine-tuning):
 
-1️⃣ Equally effective? (Can LLMs learn new knowledge equally effectively across different languages?)
+1️⃣ Equally effective? (Can LLMs learn new knowledge equally effectively across different languages in terms of efficiency and accuracy?)
 
 2️⃣ Equally transferable? (Can the new knowledge learned by LLMs be transferred equally across languages?)
 
-3️⃣ Equally prioritized? (Can the new knowledge learned by LLMs be treated equally when conflicts arise between two languages?)
+3️⃣ Equally prioritized? (When new knowledge in two languages conflicts with each other, can LLMs treat them equally?)
 
-4️⃣ Equally robust? (Can LLMs equally resist errors when learning new knowledge across different languages?)
+4️⃣ Equally robust? (When incorrect knowledge exists in learning materials, can LLMs equally resist these errors across different languages?)
 
 We hope that this work will lay a foundation for promoting a more equitable and inclusive next generation of artificial intelligence.
 
@@ -45,7 +45,7 @@ huggingface-cli download --token hf_token --resume-download meta-llama/Llama-3.1
 
 ### Quality Assessment of the Multilingual Parallel Datasets
 
-We generate question-answer pairs in English and translate them into 16 other languages using the Google Translator. To evaluate the quality of our two multilingual parallel datasets, we conduct semantic similarity and consistency checks. This involves back-translating the question-answer pairs from the target languages into English and comparing them with the original English pairs.
+We generate question-answer pairs in English and translate them into 16 other languages using Google Translate. To evaluate the quality of our two multilingual parallel datasets, we conduct semantic similarity and consistency checks. This involves back-translating the question-answer pairs from the target languages into English and comparing them with the original English pairs.
 
 ```bash
 python src/preprocess/translate_file.py --dataset dataset_name --mode train_or_eval
