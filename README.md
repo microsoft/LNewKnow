@@ -1,12 +1,12 @@
 # Inequalities in New Knowledge Learning
 
-Welcome to the official repository for our work **"Uncovering inequalities in new knowledge learning of large language models across different languages"**. In this study, we explore the inequalities in new knowledge learning of large language models (LLMs) across different languages.
+Welcome to the official repository for our work **"Uncovering inequalities in new knowledge learning by large language models across different languages"**. In this study, we explore the inequalities in new knowledge learning by large language models (LLMs) across different languages.
 
 ## 🌟 Overview
 
 ### Research Questions:
 
-As LLMs gradually become integral tools for information retrieval, integration, and problem-solving in daily life worldwide, understanding linguistic inequality is becoming increasingly important. Existing research has primarily focused on static analyses that assess the disparities in the existing knowledge and capabilities of LLMs across languages. However, these models are inherently evolving, continuously acquiring new knowledge to provide current, relevant responses and deliver precise, expert-level answers in specific domains. Investigating inequalities within this dynamic process is therefore also essential. In this study, we aim to explore the inequalities in new knowledge learning of LLMs across different languages from four key dimensions: effectiveness, transferability, prioritization, and robustness. Specifically, we investigate the following four research questions under two learning paradigms (in-context learning and fine-tuning):
+As LLMs gradually become integral tools for information retrieval, integration, and problem-solving in daily life worldwide, understanding linguistic inequality is becoming increasingly important. Existing research has primarily focused on static analyses that assess the disparities in the existing knowledge and capabilities of LLMs across languages. However, these models are continuously being evolved, acquiring new knowledge to provide current, relevant responses and deliver precise, expert-level answers in specific domains. Investigating inequalities within this dynamic process is therefore also essential. In this study, we aim to explore the inequalities in new knowledge learning by LLMs across different languages and four key dimensions: effectiveness, transferability, prioritization, and robustness. Specifically, we investigate the following four research questions under two learning paradigms (in-context learning and fine-tuning):
 
 1️⃣ Equally effective? (Can LLMs learn new knowledge equally effectively across different languages in terms of efficiency and accuracy?)
 
@@ -55,7 +55,7 @@ python src/preprocess/calc_similarity.py --dataset dataset_name
 
 ![Figure_1](./assets/Figure_1.jpg)
 
-Our test model struggled to accurately answer questions in any language when evaluated on the fictional new knowledge dataset. In contrast, the model successfully answered the majority of questions across all languages on the common-sense dataset. These findings highlight the effectiveness of the two datasets we constructed.
+Our test models struggled to accurately answer questions in any language when evaluated on the fictional new knowledge dataset. In contrast, the model successfully answered the majority of questions across all languages on the common-sense dataset. These findings highlight the effectiveness of the two datasets we constructed.
 
 ```bash
 python src/verification/common-sense_completion.py --model gpt-4o-mini_or_llama
@@ -104,9 +104,6 @@ python src/ic_learning/visualization_inequality.py --model gpt-4o-mini_or_llama
 
 ![Figure_4](./assets/Figure_4.jpg)
 
-
-![Figure_5](./assets/Figure_5.jpg)
-
 ### Equally prioritized?
 
 We further explore inequality in an important and common scenario—when specific knowledge is inconsistent or conflicts
@@ -130,7 +127,7 @@ python src/ic_conflict/aggregate_results.py --model gpt-4o-mini_or_llama
 python src/utils/visualization_violin.py --model gpt-4o-mini_or_llama
 ```
 
-![Figure_6](./assets/Figure_6.jpg)
+![Figure_5](./assets/Figure_5.jpg)
 
 ### Equally robust?
 
@@ -150,7 +147,7 @@ python src/ic_resist/parse_results.py --model gpt-4o-mini_or_llama
 python src/ic_resist/visualization_inequality.py --model gpt-4o-mini_or_llama
 ```
 
-![Figure_7](./assets/Figure_7.jpg)
+![Figure_6](./assets/Figure_6.jpg)
 
 
 ## 🔍 Notes
