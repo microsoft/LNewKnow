@@ -1,12 +1,12 @@
 # Inequalities in New Knowledge Learning
 
-Welcome to the official repository for our work **"Uncovering inequalities in new knowledge learning by large language models across different languages"**. In this study, we explore the inequalities in new knowledge learning by large language models (LLMs) across different languages.
+Welcome to the official repository for our work **"Uncovering inequalities in new knowledge learning by large language models across different languages"**. In this study, we explore inequalities in new knowledge learning by large language models (LLMs) across different languages.
 
 ## 🌟 Overview
 
 ### Research Questions:
 
-As LLMs gradually become integral tools for information retrieval, integration, and problem-solving in daily life worldwide, understanding linguistic inequality is becoming increasingly important. Existing research has primarily focused on static analyses that assess the disparities in the existing knowledge and capabilities of LLMs across languages. However, these models are continuously being evolved, acquiring new knowledge to provide current, relevant responses and deliver precise, expert-level answers in specific domains. Investigating inequalities within this dynamic process is therefore also essential. In this study, we aim to explore the inequalities in new knowledge learning by LLMs across different languages and four key dimensions: effectiveness, transferability, prioritization, and robustness. Specifically, we investigate the following four research questions under two learning paradigms (in-context learning and fine-tuning):
+As large language models gradually demonstrate their potential to boost productivity and become integral tools for problem-solving in daily life worldwide, understanding linguistic inequality is becoming increasingly important. Existing research has primarily focused on static analyses that assess the disparities in the existing knowledge and capabilities of LLMs across languages. However, LLMs are continuously being evolved, acquiring new knowledge to provide current, relevant responses and deliver precise, expert-level answers in specific domains. Investigating linguistic inequalities within this dynamic process is therefore also essential. In this study, we aim to explore inequalities in new knowledge learning by LLMs across different languages and four key dimensions: effectiveness, transferability, prioritization, and robustness. Specifically, we investigate the following four research questions under two learning paradigms (in-context learning and fine-tuning):
 
 1️⃣ Equally effective? (Can LLMs learn new knowledge equally effectively across different languages in terms of efficiency and accuracy?)
 
@@ -14,9 +14,9 @@ As LLMs gradually become integral tools for information retrieval, integration, 
 
 3️⃣ Equally prioritized? (When new knowledge in two languages conflicts with each other, can LLMs treat them equally?)
 
-4️⃣ Equally robust? (When incorrect knowledge exists in learning materials, can LLMs equally resist these errors across different languages?)
+4️⃣ Equally robust? (In the presence of incorrect new knowledge as input, can LLMs equally resist these errors across different languages?)
 
-We hope that this work will lay a foundation for promoting a more equitable and inclusive next generation of artificial intelligence.
+We hope that this work highlights the need to pay attention to potential inequalities across languages in future LLMs.
 
 ### Codes & Datasets:
 
